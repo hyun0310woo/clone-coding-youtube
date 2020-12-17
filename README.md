@@ -9,6 +9,6 @@
 <br/>
 [Blog](https://hyun0310woo.tistory.com/148)
 
-[link keyword][id] Link: [Google][googlelink]
+
 
 Link: Google * 인라인 링크 syntax: [Title](link) Link: Google
