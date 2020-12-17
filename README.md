@@ -6,13 +6,5 @@
 ##### No JavaScirpt.
 
 #### JavaSciprt가 없는 순수 HTML과 CSS만으로 약간의 반응형 웹을 만들었습니다.
-
-
-#### 보통은 react를 사용했었는데 너무 오랜만에  순수 HTML을 건드려보니 react의 소중함을 느꼈습니다.
-
 <br/>
-<br/>
-<br/>
-#### 정적인 웹 페이지를 만드는 것은 어렵지 않습니다.
-
-
+[Blog](https://hyun0310woo.tistory.com/148)
