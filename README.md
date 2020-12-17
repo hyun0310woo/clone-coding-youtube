@@ -4,7 +4,7 @@
 
 ## HTML, CSS 공부를 위한 클론 코딩
 
-<img src="image/img5.png"/>
+<img src="image/img5.png">
 
 ### 준비물: video: 1개, image n개, FontAfontawesome(혹은 icon img)
 
