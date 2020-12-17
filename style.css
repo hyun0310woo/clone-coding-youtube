@@ -1,0 +1,183 @@
+:root {
+  /* color */
+  --white-color: #fff;
+  --navbar-color: #252525;
+  --blue-color: #045fd4;
+  --red-color: #ff0000;
+  --gray-dark-color: #909090;
+  --gray-light-color: #3a3434;
+
+  /* size */
+  --padding-large: 20px;
+  --padding-medium: 18px;
+  --padding-small: 16px;
+  --user-size: 36px;
+
+  /* font size */
+  --large: 18px;
+  --medium: 14px;
+  --small: 12px;
+  --micro: 10px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* header */
+header {
+  background-color: var(--navbar-color);
+  padding: var(--padding-large);
+  height: 6vh;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+}
+
+.navbar-item {
+  color: var(--white-color);
+  font-size: var(--large);
+}
+
+.navbar-item > .fas {
+  margin-right: 22px;
+}
+
+.navbar-item2 {
+  width: 50%;
+  max-width: 830px;
+}
+
+.navbar-item2 > input {
+  width: 70%;
+  height: 27px;
+  background-color: #121212;
+  color: var(--gray-dark-color);
+  border: none;
+}
+
+.navbar-item2 > button {
+  width: 60px;
+  height: 27px;
+  background-color: #373737;
+  border: none;
+}
+
+.navbar-item1 > span {
+  font-weight: bold;
+}
+
+.navbar-item1 > .fa-youtube {
+  color: var(--red-color);
+}
+
+/* player */
+.player {
+  text-align: center;
+  background: black;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  max-width: 1300px;
+}
+
+/* info */
+.info {
+  padding: 10px 5%;
+}
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  color: var(--blue-color);
+  font-size: var(--small);
+  margin-bottom: 10px;
+}
+
+.tags span {
+  margin-right: 3px;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+}
+
+.title-name {
+  font-size: var(--large);
+  margin-bottom: 20px;
+}
+
+.title-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.title-upRoad {
+  font-size: var(--medium);
+  color: var(--gray-dark-color);
+}
+
+.title-upRoad > .upRoad-count {
+  font-family: "Roboto", sans-serif;
+}
+
+.icons {
+  color: var(--gray-dark-color);
+  font-size: var(--large);
+}
+
+.icons i {
+  margin-right: 15px;
+}
+
+.icons span {
+  font-size: 16px;
+}
+
+.icons i {
+  margin-right: 15px;
+}
+
+.user {
+  padding: 20px 0;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.user-info img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.user-name {
+  font-weight: bold;
+}
+
+.user-subscriber {
+  font-family: "Roboto", sans-serif;
+  color: var(--gray-dark-color);
+  font-size: var(--medium);
+}
+
+.user-info button {
+  background: #be0b0b;
+  border: none;
+  color: var(--white-color);
+  width: 75px;
+  height: 40px;
+  border-radius: 2px;
+}
