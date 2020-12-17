@@ -1,7 +1,5 @@
 # clone-coding-youtube
 <br/>
-<br/>
-
 ## HTML, CSS 공부를 위한 클론 코딩
 
 ### 준비물: video: 1개, image n개, FontAfontawesome(혹은 icon img)       
@@ -16,37 +14,5 @@
 <br/>
 <br/>
 #### 정적인 웹 페이지를 만드는 것은 어렵지 않습니다.
-#### 하지만 조금 더 나은 코드를 작성하기 위해, 조금 더 알아보기 쉬운 코드를 위해
-#### 느낀 점을 몇 가지 정리합니다.
-#### H4
-<br/>
-<br/>
 
 
-
-
-
-1. asd
-2. asd
-3. asd
-
-
-This is a normal paragraph:
-
-    This is a code block.
-    
-end code block.
-
-
-* * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------
-
-
-<img src="/사진/img.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
