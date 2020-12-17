@@ -4,7 +4,8 @@
 
 ## HTML, CSS 공부를 위한 클론 코딩
 
-![img](https://user-images.githubusercontent.com/61106927/102522498-a9748a00-40d9-11eb-9baf-0737dcf91d8a.png)
+<img src="image/img1.png">
+<img src="image/img5.png">
 
 ### 준비물: video: 1개, image n개, FontAfontawesome(혹은 icon img)
 
