@@ -7,8 +7,4 @@
 
 #### JavaSciprt가 없는 순수 HTML과 CSS만으로 약간의 반응형 웹을 만들었습니다.
 <br/>
-[Blog](https://hyun0310woo.tistory.com/148)
-
-
-
-Link: Google * 인라인 링크 syntax: [Title](link) Link: Google
+Blog: [Title](https://hyun0310woo.tistory.com/148)
