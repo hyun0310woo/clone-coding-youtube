@@ -3,8 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"> <!--load all styles -->
     <title>youtube clone coding</title>
 </head>
 <body>
+    <!-- header -->
+    <header>
+        <i class="fas fa-bars"></i>
+        <i class="fab fa-youtube"></i>
+        <span>YouTube</span>
+        <input type="text" value="검색">
+        <button><i class="fas fa-search"></i></button>
+        <i class="fas fa-bell"></i>
+        <i class="fas fa-user"></i>
+    </header>
+
+    <!-- player -->
+    <section class="player">
+        <video src="video/youtube.mp4" controls></video>
+    </section>
+
+    <!-- info -->
+    <section class="info">
+        <div class="tags">
+            <span>#음악</span>
+            <span>#인디음악</span>
+            <span>#기타</span>
+        </div>
+        <article class="title">
+            <div class="title-name">편안한 기타 음악 - 심리안정 음악 | 강아지가 좋아하는 음악 Pet Musice(1시간)</div>
+            <span>조회수 924,767</span>
+            <span>- 2019. 10. 31.</span>
+            <i class="fas fa-thumbs-up"> 519</i>
+            <i class="fas fa-thumbs-down"> 34</i>
+            <i class="fas fa-share"> 공유</i>
+            <i class="fas fa-plus-square"> 저장</i>
+            <i class="fas fa-ellipsis-h"></i>
+        </article>
+        <article class="user">
+            <div class="user-info">
+                <img src="image/jake.jpg">
+                <div class="user-title">
+                    <div class="user-name">뮤직 메이트</div>
+                    <div class="user-subscriber">구독자 7.02만명</div>
+                </div>
+                <button>구독</button>
+            </div>
+        </article>
+    </section>
+    
+    <!-- upNext -->
+    <section class="upNext">
+        <div class="next-info">
+            <div>다음 동영상</div>
+            <button>자동 재생</button>
+        </div>
+        <div class="text-player-info">
+            <img src="image/jake.jpg">
+            <div class="next-player">다음 동영상 제목</div>
+            <div>다음 동영상 스트리머 이름</div>
+            <span>조회수 6.2만회</span>
+            <span>1년 전</span>
+        </div>
+        <div class="text-player-info">
+            <img src="image/jake.jpg">
+            <div class="next-player">다음 동영상 제목</div>
+            <div>다음 동영상 스트리머 이름</div>
+            <span>조회수 6.2만회</span>
+            <span>1년 전</span>
+        </div>
+        <div class="text-player-info">
+            <img src="image/jake.jpg">
+            <div class="next-player">다음 동영상 제목</div>
+            <div>다음 동영상 스트리머 이름</div>
+            <span>조회수 6.2만회</span>
+            <span>1년 전</span>
+        </div>
+    </section>
 </body>
 </html>
