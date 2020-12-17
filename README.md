@@ -6,7 +6,7 @@
 
 
 
-![스크린샷, 2020-12-18 02-11-55](https://user-images.githubusercontent.com/61106927/102522498-a9748a00-40d9-11eb-9baf-0737dcf91d8a.png)
+![img](https://user-images.githubusercontent.com/61106927/102522498-a9748a00-40d9-11eb-9baf-0737dcf91d8a.png)
 
 ### 준비물: video: 1개, image n개, FontAfontawesome(혹은 icon img)
 
