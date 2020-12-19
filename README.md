@@ -3,6 +3,7 @@
 <br/>
 
 ## HTML, CSS 공부를 위한 클론 코딩
+![cloneTube](https://user-images.githubusercontent.com/61106927/102690414-9b914700-4248-11eb-93c7-6dada7f5c17e.gif)
 
 
 ### 준비물: video: 1개, image n개, FontAfontawesome(혹은 icon img)
