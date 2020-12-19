@@ -84,6 +84,7 @@ header {
 .player {
   text-align: center;
   background: black;
+  margin-bottom: 10px;
 }
 
 video {
